@@ -1,4 +1,4 @@
-### Meow 👋
+<p style="size=30px">Meow</p>
 
 <!--
 **seungjoo1217/seungjoo1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
