@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCDCC&height=300&section=header&text=%20MEOW%20&&fontSize=90&animation=blink&fontColor=FA835B)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFCDCC&height=300&section=header&text=%20MEOW%20&&fontSize=90&animation=blink&fontColor=FA835B)
 
 
